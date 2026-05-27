@@ -11,12 +11,12 @@
 | File | Description |
 |------|-------------|
 | `New Notebook 2026-05-25 09_53_08.ipynb` | Azure Databricks notebook containing data extraction, cleaning, feature engineering, analytical queries, and linear regression model for fare prediction. |
-| `draf-1.docx` | Final report with 33 screenshots, architecture diagram, cost analysis table, security configurations, and monitoring evidence. |
+| `azure_outputs.docx` | Final report with 33 screenshots, architecture diagram, cost analysis table, security configurations, and monitoring evidence. |
 
 ## Dataset
 
 - **Source:** NYC Yellow Taxi Trip Data (March 2016) – [Kaggle](https://www.kaggle.com/datasets/elemento/nyc-yellow-taxi-trip-data?select=yellow_tripdata_2016-03.csv)
-- **Size:** ~1.2 GB (19 columns, ~12 million records after cleaning)
+- **Size:** ~1.9 GB (19 columns, ~12 million records after cleaning)
 
 ## Azure Services Used
 
